@@ -71,6 +71,8 @@ Where user_id is the required User ID
 
 TODO: 
 
+Code comments... I've not added comments, I'll do that soon, if time allows.
+
 Tests... I created one but felt I was running out of test time]
 
 Username validation, I exclude any usernames containign car, dog, horse. but the 4 words that over write that rule are not checked for yet. I'll creack on and maybe I'll get it done by the time you read this though!!
